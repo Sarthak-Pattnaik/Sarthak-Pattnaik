@@ -1,10 +1,10 @@
 #### **Hi Everyone** 👋
 
-My name's Jeff (@NoviceCoder777). I'm a 16 y/o high school student.
+My name's Sarthak (@NoviceCoder777). I'm a 16 y/o high school student.
 
-I know Java and HTML.
+I am currently learning Java, Python and HTML
 
-Joined GitHub to further enhance my coding skills in Java & other languages and familarise myself with the developer world.
+Joined GitHub to further enhance my coding skills in programming languages and familarise myself with the developer world.
 
 <!---
 NoviceCoder777/NoviceCoder777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
