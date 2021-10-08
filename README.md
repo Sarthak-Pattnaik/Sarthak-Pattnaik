@@ -1,6 +1,6 @@
 #### **Hi Everyone** 👋
 
-My name's Sarthak (@NoviceCoder777). I'm a 16 y/o high school student.
+My name's Sarthak Pattnaik(@Sarthak-Pattnaik). I'm a 16 y/o high school student.
 
 I am currently learning Java, Python and HTML
 
