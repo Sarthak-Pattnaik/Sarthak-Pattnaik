@@ -2,7 +2,7 @@
 
 My name's Sarthak Pattnaik(@Sarthak-Pattnaik). I'm a 16 y/o high school student.
 
-I am currently learning Java, Python and HTML
+I am currently learning Java, Python, C++, HTML, CSS and JavaScript.
 
 Joined GitHub to further enhance my coding skills in programming languages and familarise myself with the developer world.
 
