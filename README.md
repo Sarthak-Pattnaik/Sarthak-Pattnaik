@@ -1,10 +1,8 @@
 #### **Hi Everyone** 👋
 
-My name's Sarthak Pattnaik(@Sarthak-Pattnaik). I'm a 16 y/o high school student.
+My name's Sarthak Pattnaik(@Sarthak-Pattnaik). I'm a 19 y/o college student currently pursuing B.Tech. in CSE from KIIT, Bhubaneswar, India.
 
-I am currently learning Java, Python, C++, HTML, CSS and JavaScript.
-
-Joined GitHub to further enhance my coding skills in programming languages and familarise myself with the developer world.
+I have 4+ years of experience in Java.
 
 <!---
 NoviceCoder777/NoviceCoder777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
