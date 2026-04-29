@@ -1,6 +1,6 @@
 # Full Stack Developer | Data Analyst
 
-Hi, I'm **Sarthak**! I design modern web pages using **Figma**, ensure responsiveness with **React**, and create scalable backends with **Supabase**.  
+Hi, I'm **Sarthak**! I design modern web apps using **Figma**, ensure responsiveness with **React**, and create backends with **Supabase**.  
 I also enjoy working on projects involving **Data Analysis** using **Python**, **Power BI**, and **SQL** to uncover hidden insights from raw data.  
 Feel free to connect with me:
 
