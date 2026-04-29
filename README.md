@@ -1,16 +1,30 @@
-## Hi there 👋
+# Full Stack Developer | Data Analyst
 
-<!--
-**Sarthak-Pattnaik/Sarthak-Pattnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Sarthak**! I design modern web pages using **Figma**, ensure responsiveness with **React**, and create scalable backends with **Supabase**.  
+I also enjoy working on projects involving **Data Analysis** using **Python**, **Power BI**, and **SQL** to uncover hidden insights from raw data.  
+Feel free to connect with me:
 
-Here are some ideas to get you started:
+💼 [LinkedIn](https://www.linkedin.com/in/sarthak-pattnaik-348ba72a9/)
+💻 [GitHub](https://github.com/Sarthak-Pattnaik)
+✉️ [Send me an Email](mailto:mesarthak04@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 **Web Development:**  
+
+**Frontend**  
+- React with TypeScript , Next.js
+- Tailwind CSS  
+
+**Backend**    
+- Supabase, PostgreSQL, FastAPI
+- ImageKit
+  
+<br>
+
+📊**Data Analysis:**  
+- Python (Scikit-learn, Pandas, NumPy)  
+- Power BI  
+- SQL  
+
+---
