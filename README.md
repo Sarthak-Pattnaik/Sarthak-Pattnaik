@@ -6,7 +6,7 @@ Feel free to connect with me:
 
 💼 [LinkedIn](https://www.linkedin.com/in/sarthak-pattnaik-348ba72a9/)  
 💻 [GitHub](https://github.com/Sarthak-Pattnaik)  
-✉️ [Send me an Email](mailto:mesarthak04@gmail.com)  
+✉️ [Send me an Email](mailto:psarthak@protonmail.com)  
 
 ---
 
