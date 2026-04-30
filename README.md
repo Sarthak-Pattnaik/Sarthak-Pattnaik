@@ -5,7 +5,7 @@ I also enjoy working on projects involving **Data Analysis** using **Python**, *
 Feel free to connect with me:
 
 💼 [LinkedIn](https://www.linkedin.com/in/sarthak-pattnaik-348ba72a9/)  
-💻 [GitHub](https://github.com/Sarthak-Pattnaik)  
+💻 [Website](https://sarthak-pattnaik-portfolio.vercel.app/)  
 ✉️ [Send me an Email](mailto:psarthak@protonmail.com)  
 
 ---
